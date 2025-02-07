@@ -2190,3 +2190,14 @@ textarea {
 .single-post .single-post-heading {
     font-size: 30px !important;
 }
+
+.navbar img{
+    width: 50px;
+}
+
+@media (max-width: 768px) {
+    .navbar img{
+        width: 50px !important;
+    }
+    
+}
